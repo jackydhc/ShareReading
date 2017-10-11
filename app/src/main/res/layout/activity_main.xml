@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.jacky.sharereading.MainActivity">
+
     <RadioGroup
         android:id="@+id/layout_bottom"
         android:layout_width="match_parent"
@@ -37,6 +38,11 @@
             android:layout_height="match_parent"
             android:text="button4"
             android:layout_weight="1"/>
-
     </RadioGroup>
+    <FrameLayout
+        android:id="@+id/layout_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/layout_bottom">
+    </FrameLayout>
 </RelativeLayout>
