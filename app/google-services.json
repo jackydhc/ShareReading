@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "258247502738",
+    "firebase_url": "https://sharereading-a50ed.firebaseio.com",
+    "project_id": "sharereading-a50ed",
+    "storage_bucket": "sharereading-a50ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258247502738:android:00e33e0d6251dba0",
+        "android_client_info": {
+          "package_name": "com.jacky.sharereading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258247502738-oehd9it2e8efm064ubp74nrgc2ki27kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRT8jr6mVxguIQqJTawv1vYJuNH3dK6wY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
