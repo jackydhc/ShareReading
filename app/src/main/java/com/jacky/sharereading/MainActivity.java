@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         layoutContainer = (FrameLayout) findViewById(R.id.layout_container);
         FirebaseCrash.zzUL();
-
+        FirebaseCrash.log("first log");
     }
 }
